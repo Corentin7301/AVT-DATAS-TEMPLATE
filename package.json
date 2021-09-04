@@ -1,0 +1,21 @@
+{
+  "name": "alpine-vite-tailwind-template",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": "https://github.com/Corentin7301/ALPINE-VITE-TAILWIND-TEMPLATE",
+  "author": {
+    "name": "Corentin PERROUX",
+    "email": "corentin7301@gmail.com"
+  },
+  "devDependencies": {
+    "alpinejs": "^3.2.2",
+    "autoprefixer": "^10.3.1",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.7",
+    "vite": "^2.4.3"
+  }
+}
